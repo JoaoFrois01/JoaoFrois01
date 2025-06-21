@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Estudante de Sistemas de Informação | 💻 Belo Horizonte - MG</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=3ABAF7&lines=Desenvolvedor+FullStack+em+formação;Apaixonado+por+tecnologia+e+aprendizado+contínuo;Estudando+Python,+React+e+Swift" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=3ABAF7&lines=Desenvolvedor+FullStack+em+formação;+ +Apaixonado+por+tecnologia+e+aprendizado+contínuo;Estudando+Python,+React+e+Swift" />
 </p>
 
 ---
